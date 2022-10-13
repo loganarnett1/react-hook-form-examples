@@ -1,2 +1,3 @@
 # react-hook-form-examples
-Created with CodeSandbox
+
+Some examples using different aspects of react-hook-form
