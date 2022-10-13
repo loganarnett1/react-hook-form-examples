@@ -1,0 +1,83 @@
+.App {
+  text-align: left;
+}
+
+input[type="text"] {
+  border-radius: 4px;
+  font-size: 20px;
+  border-width: 2px;
+  border-style: solid;
+  color: white;
+  margin: 3px;
+  background-color: rgb(32, 34, 37);
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+input[type="submit"] {
+  color: white;
+  width: 100%;
+  padding: 12px;
+  font-size: 17px;
+  font-weight: bold;
+  background-color: rgb(0, 123, 224);
+  border-width: 0px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+input[type="submit"]:active {
+  background-color: rgb(0, 94, 170);
+  box-shadow: inset 2px 2px 10px rgb(5, 36, 61);
+}
+
+label {
+  color: white;
+  display: block;
+  margin-top: 15px;
+}
+
+.lightText {
+  color: white;
+}
+
+.dataLabel {
+  padding-top: 20px;
+  padding-left: 10px;
+  font-size: 18px;
+  padding-bottom: 20px;
+  border-bottom: solid;
+  border-width: 1px;
+  margin-bottom: 0px;
+}
+
+.codeSection {
+  background-color: rgb(40, 42, 54);
+  border-radius: 10px;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+.formCard {
+  background-color: rgb(32, 34, 37);
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 10px;
+}
+
+.pageContainer {
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1.5em;
+}
+
+html {
+  background-color: rgb(54, 57, 63);
+}
+
+span {
+  border-radius: 10px !important;
+}
